@@ -21,7 +21,7 @@ import google.generativeai as genai
 import PIL.Image
 import os
 
-genai.configure(api_key="AIzaSyCjxkgJpthqFdZgy3wVuV5F2ACetmm0q4g")
+genai.configure(api_key="ADD API")
 img = PIL.Image.open('PARACIP Paracetamol Tablet 500 Mg, For Headache, 10 Tablets.jpg')
 
 model = genai.GenerativeModel(model_name="gemini-1.5-flash")
