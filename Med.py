@@ -6,7 +6,7 @@
 
 # url=requests.get('https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyCjxkgJpthqFdZgy3wVuV5F2ACetmm0q4g')
 # print(url)
-# genai.configure(apikey="AIzaSyCjxkgJpthqFdZgy3wVuV5F2ACetmm0q4g")
+# genai.configure(apikey="YOUR API")
 
 
 # # now i want to generate an request for an animal an want to print the responce from gemini
